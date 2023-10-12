@@ -1,4 +1,4 @@
-# Hello world, welcome to me git
+# Hello world, welcome to my git
 
 - This git is from the discipline of AC
 - This is my Remote Git
